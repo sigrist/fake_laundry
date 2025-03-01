@@ -1,0 +1,16 @@
+{
+  "domain": "fake_laundry",
+  "name": "Fake Laundry",
+  "codeowners": [
+    "@sigrist"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/fake_laundry",
+  "homekit": {},
+  "iot_class": "calculated",
+  "quality_scale": "bronze",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
